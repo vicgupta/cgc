@@ -1,0 +1,8 @@
+Write me a new blogpost about the future of agentic frameworks in the software development industry, specifically about the potential of agentic frameworks to automate the software development life cycle.
+
+https://www.coforge.com/blog/unleash-the-power-of-custom-copilots-to-revolutionize-your-workflow
+https://www.coforge.com/blog/github-copilot-a-paradigm-shift-for-coding-with-ai
+
+Writing style, format
+
+N/A

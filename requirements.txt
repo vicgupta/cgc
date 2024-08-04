@@ -1,0 +1,10 @@
+crewai
+langchain_community
+python-dotenv
+exa_py
+crewai_tools
+markdown2
+typing
+requests
+pdfminer
+streamlit
